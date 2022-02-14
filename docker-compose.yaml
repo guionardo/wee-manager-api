@@ -1,0 +1,14 @@
+version: '3.4'
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    env_file:
+      - .env
+    ports:
+      - target: 8000
+        published: 8000
+        protocol: tcp
+        mode: host

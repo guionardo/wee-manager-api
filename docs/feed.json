@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "result": {
+        "page": 1,
+        "per_page": 1,
+        "total_pages": 11,
+        "total": 11,
+        "posts": [
+            {
+                "_id": 15,
+                "post_id": 15,
+                "user_id": 1,
+                "page_id": null,
+                "user_type": "user",
+                "post_type": "video",
+                "text": "🎵🎉",
+                "likes": 4,
+                "comments": 3,
+                "interacao": 1644451587,
+                "posts_images": [],
+                "posts_videos": [
+                    {
+                        "post_id": 15,
+                        "source": "video/2022/February/a1f6cf1b406d0a82a45cb5e4fa7ae131-2d3e9b19-acef-439a-bf1c-ba87d4584f23.mp4",
+                        "bucket": "desenvolvimento",
+                        "url": "https://desenvolvimento.us-east-1.linodeobjects.com/uploads/video/2022/February/a1f6cf1b406d0a82a45cb5e4fa7ae131-2d3e9b19-acef-439a-bf1c-ba87d4584f23.mp4"
+                    }
+                ],
+                "posts_links": [],
+                "posts_medias": [],
+                "posts_comments": [
+                    {
+                        "comment_id": 11,
+                        "user_id": 49,
+                        "text": "Oi",
+                        "time": "2022-02-10T00:06:27.000Z",
+                        "likes": 0,
+                        "replies": 0,
+                        "user": {
+                            "user_id": 49,
+                            "user_name": "joãob9f897aa",
+                            "user_verified": "0",
+                            "user_firstname": "João ",
+                            "user_lastname": "Neto",
+                            "user_gender": "male",
+                            "user_picture": "2022/February/bfea37cc0ffb86c7b9c5ee5c6f173b75-3fcb09ef-02d9-404d-a27f-c66eba30689c.jpg",
+                            "user_privacidade": "publica",
+                            "get_cover_url": null
+                        },
+                        "page": null,
+                        "liked": false
+                    },
+                    {
+                        "comment_id": 9,
+                        "user_id": 49,
+                        "text": "Oi",
+                        "time": "2022-02-09T15:38:30.000Z",
+                        "likes": 0,
+                        "replies": 0,
+                        "user": {
+                            "user_id": 49,
+                            "user_name": "joãob9f897aa",
+                            "user_verified": "0",
+                            "user_firstname": "João ",
+                            "user_lastname": "Neto",
+                            "user_gender": "male",
+                            "user_picture": "2022/February/bfea37cc0ffb86c7b9c5ee5c6f173b75-3fcb09ef-02d9-404d-a27f-c66eba30689c.jpg",
+                            "user_privacidade": "publica",
+                            "get_cover_url": null
+                        },
+                        "page": null,
+                        "liked": false
+                    }
+                ],
+                "__v": 0,
+                "liked": true,
+                "saved": true,
+                "managed": false,
+                "user": {
+                    "user_id": 1,
+                    "user_name": "bomperfil",
+                    "user_verified": "1",
+                    "user_firstname": "Social",
+                    "user_lastname": "Wee",
+                    "user_gender": "male",
+                    "user_picture": "2022/January/0b831e91478c66f7b859935790925c4e-dfe6b9f7-c48b-4328-9f3f-4836be85dbd0.jpg",
+                    "user_privacidade": "publica",
+                    "get_avatar_url": "https://desenvolvimento.us-east-1.linodeobjects.com/uploads/avatar/2022/January/0b831e91478c66f7b859935790925c4e-dfe6b9f7-c48b-4328-9f3f-4836be85dbd0.jpg"
+                },
+                "page": null
+            }
+        ]
+    }
+}

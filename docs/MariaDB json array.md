@@ -1,0 +1,2 @@
+# MariaDB JSON Array search
+
